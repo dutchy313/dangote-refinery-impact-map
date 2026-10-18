@@ -13,6 +13,9 @@ This project uses Nigeria's **2022 refined petroleum import data** as a pre-refi
 
 The visualization should be interpreted as a **map of trade exposure**, not as an estimate of realized post-refinery revenue losses.
 
+<img width="1912" height="810" alt="image" src="https://github.com/user-attachments/assets/2d4b6e51-f00f-43e7-93b8-811b9452f957" />
+
+
 ## What the Map Shows
 
 The interactive map combines:
