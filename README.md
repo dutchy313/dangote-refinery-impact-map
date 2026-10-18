@@ -112,7 +112,7 @@ The 2022 dataset is used as a baseline because it represents a pre-refinery peri
 
 **Oludotun Babayemi**
 
-Designed and developed as a data storytelling and geospatial analysis project.
+Designed and developed in 2024 as a data storytelling and geospatial analysis project.
 
 ## License
 
